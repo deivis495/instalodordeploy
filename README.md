@@ -10,8 +10,9 @@ crear y direccionar 1 nombres de dominio para Backend y uno para frondend o sub 
 
 Ejemplo: 
 
-front1.demo.com;
-back1.demo.com;
+front1.demo.com
+
+back1.demo.com
 
 ir copiando y pegando por linea 
 
