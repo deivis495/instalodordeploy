@@ -6,7 +6,7 @@ UBUNTU SERVER 20.04 (LIMPIO)
 
 -----------MANUAL PRIMERA INSTALACION---------- 
 
-crear y direccionar 1 nombres de dominio para Backend y uno para frondend o sub dominios apuntando a el ip del servidor.
+crear y direccionar 1 nombres de dominio para Backend y uno para Frontdend o sub dominios apuntando a el ip del servidor.
 
 Ejemplo: 
 
