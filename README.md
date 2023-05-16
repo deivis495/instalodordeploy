@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<title>Online HTML Editor</title>
-<head>
-</head>
-<body>
-    hola 
+
 <h1>Online HTML Editor</h1>
-<div>This is real time online HTML Editor</div>
-</body>
-</html>
+
