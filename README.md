@@ -10,8 +10,8 @@ crear y direccionar 1 nombres de dominio para Backend y uno para frondend o sub 
 
 Ejemplo: 
 
-front1.demo.com
-back1.demo.com
+front1.demo.com;
+back1.demo.com;
 
 ir copiando y pegando por linea 
 
@@ -66,9 +66,9 @@ numero de cuentas de usuarios:
 (numero de usuarios que pueden registrarse)
 
 ingrese el dominio front: el dominio para frontend registrado 
-front1.demo.com
+front1.demo.com;
 ingrese el dominio back: el dominio para backend registrado
-back1.demo.com
+back1.demo.com;
 
 Cada instancia nueva debe realizarse con puertos distintos
 puerto para front: desde 3000 al 3999 escojer
